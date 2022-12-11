@@ -1,4 +1,6 @@
-#include  <stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 /**
 *main - Entry no Argument
@@ -10,9 +12,9 @@ int main(void)
 {
 	char a;
 
-	for (a == 'z'; a >= 'a'; a--) 
+	for (a = 'z'; a >= 'a'; a--) 
 	{
-		putchar(a);
+		printf("%c", a);
 	}
 	putchar('\n');
 

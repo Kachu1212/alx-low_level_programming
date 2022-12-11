@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
-*main - Entry noi*Description 
-*Display - the alphabet in lowercase then also in uppercase
+*main - Entry no Argument
+*Description -Display the alphabet in lowercase then also in uppercase
 *Return: Return 0
 */
 
@@ -17,7 +17,7 @@ int main(void)
 	{
 		putchar(a);
 	}
-	
+
 	for (A = 'A'; A <= 'Z'; A++)
 
 	{

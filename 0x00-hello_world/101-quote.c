@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
 *main -Entry
-*Description -Display 'and that piece of art is useful" - Dora Korpar, 2015-10-19'
+*Description-Display 'and that piece of art is useful" -Dora Korpar, 2015-10-19
 *Return: This time 1
 */
 int main(void)

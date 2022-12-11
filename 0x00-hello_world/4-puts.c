@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*Main- Entry
+*main - Entry
 *Description - Display strings
 *Return: Always 0
 */

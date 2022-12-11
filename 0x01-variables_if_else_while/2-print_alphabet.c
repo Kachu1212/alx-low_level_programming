@@ -9,9 +9,9 @@
 int main(void)
 {
 	char a;
-	for(a='a'; a<='z'; a++)
+	for(a='a' ; a<='z' ; a++)
 	{
-		putchar(a);
+		putchar(a\n);
 	}
 	return (0);
 

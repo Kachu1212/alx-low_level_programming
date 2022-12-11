@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
 *main - Entry
-*Description - Display various sizes of various types 
+*Description - Display various sizes of various types
 *Return: Always 0
 */
+
 int main(void)
 {
-        int a;
+	int a;
 	long int b;
 	long long int c;
 	char d;

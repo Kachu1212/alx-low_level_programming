@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- *main- Entry main function
- *print_alphabet- Display the alphabet, in lowercase
- *Return: Return 0 when successful
+ *print_alphabet - print the alphabet, in lowercase
+ *Return: Return void when successful
 */
 
 void print_alphabet(void)

@@ -2,9 +2,9 @@
 
 /**
  * print_rev -  print reverse function
+ * @s - string characters
  * Description - prints a string, in reverse, followed by a new line
  *
- *@s  - string characters
  * Return: Always 0.
  */
 

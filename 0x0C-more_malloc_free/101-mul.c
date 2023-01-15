@@ -1,7 +1,21 @@
 
+KingDavidJnr
+/
+alx-low_level_programming
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+alx-low_level_programming/0x0C-more_malloc_free/101-mul.c
+@KingDavidJnr
+KingDavidJnr Code task done
+ 1 contributor
+230 lines (192 sloc)  4.52 KB
 #include "main.h"
-#include <stdlib.h>
-#include <stdio.h>
 
 int find_len(char *str);
 char *create_xarray(int size);
